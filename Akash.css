@@ -1,0 +1,38 @@
+#name{
+	text-align: center;
+	background: #2F4F4F;
+	height: 125px;
+	width: 100%;
+	font-size: 40px;
+	color: white;
+	padding: .10px;
+
+
+}
+#photo{
+	text-align: center;
+	background-color: #666;
+	padding: 10px;
+}
+#butn{
+
+	text-align: center;
+	padding: 15px;
+	background-color:#444444;
+	font-size: 10px;
+	color: green;
+	font-size: 20px;
+
+}
+#rb{
+	background-color: black;
+	text-align: right;
+	padding: 10px;
+	font-size: 20px;
+	color: white;
+}
+
+#link{
+	color: white;
+	text-align: left;
+}
